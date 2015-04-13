@@ -10,7 +10,7 @@ Android SDK 5.0
 
 Remote Server(WAN)
 
->>>Client: 
+Client: 
 1.login; 
 2.register; 
 3.Submit Text
@@ -20,7 +20,7 @@ Remote Server(WAN)
 7.Browse User
 8.Quit
 
->>>Server
+Server
 1.login authentication
 2.register
 3.Receive Text 
