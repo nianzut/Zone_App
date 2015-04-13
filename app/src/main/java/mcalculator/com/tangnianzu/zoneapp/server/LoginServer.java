@@ -23,7 +23,8 @@ public class LoginServer extends Thread {
         this.socket = socket;
     }
 
-    //son thread: Client Request
+    //son thread: provide service for Client Request
+    // better use "object stream" to transfer
     public void run() {
 
     }
