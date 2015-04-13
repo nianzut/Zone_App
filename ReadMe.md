@@ -5,7 +5,7 @@ Function:
 4.Comment
 
 SQL Server Database
-TCP
+TCP//very stable long time not break
 Android SDK 5.0
 
 Remote Server(WAN)
