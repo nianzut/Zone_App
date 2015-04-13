@@ -20,11 +20,12 @@ public class Message implements Serializable
     public static final String HUIFU_IMAGE="HUIFU_IMAGE";
     public static final String HUIFU_AMR="HUIFU_AMR";
     public static final String FIND_USER="FIND_USER";
+    public static final String DOWNLOAD="DOWNLOAD";
 
 
 
-    public Hashtable value=null;//come
-    public Hashtable returnValue=null;//go
+    public Hashtable value=null;//come,value that come to server
+    public Hashtable returnValue=null;//go,value that return from server
     public String type="";
 
 
